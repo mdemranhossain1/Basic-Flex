@@ -1,13 +1,14 @@
 .parent {
     padding: 30px;
     background-color: limegreen;
+    display: flex;
 }
 .child {
-    padding: 20px;
+    padding: 30px;
     background-color: yellow;
-    margin: 10px;
+    margin: 25px;
     border: 2px solid black;
     font-size: 24px;
-    text-align: center;
+    
     
 }
